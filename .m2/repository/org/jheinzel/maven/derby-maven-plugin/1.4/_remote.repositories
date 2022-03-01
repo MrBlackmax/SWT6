@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 01 13:42:33 CET 2022
+derby-maven-plugin-1.4.jar>=
+derby-maven-plugin-1.4.pom>=

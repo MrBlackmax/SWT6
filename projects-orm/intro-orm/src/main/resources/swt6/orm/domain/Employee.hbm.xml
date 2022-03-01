@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+  "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+<class name="swt6.orm.domain.Employee">
+    <id name="id" type="long">
+        <generator class="identity"></generator>
+    </id>
+    <property name="firstName" type="string"></property>
+    <property name="lastName" type="string"></property>
+    <property name="dateOfBirth" type="java.time.LocalDate"></property>
+</class>
+</hibernate-mapping>

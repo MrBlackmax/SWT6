@@ -11,3 +11,4 @@ $ScriptFolder = Split-Path $MyInvocation.MyCommand.Path
 		"-Dversion=1.4" `
 		"-Dpackaging=maven-plugin" `
 		"-DpomFile=$(Join-Path $ScriptFolder 'derby-maven-plugin-1.4.pom')"
+read-host “Press ENTER to continue...”
