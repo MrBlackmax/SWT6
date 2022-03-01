@@ -1,0 +1,4 @@
+--patch-module
+swt.modular.beans=_
+--add-reads
+swt.modular.beans=ALL-UNNAMED
