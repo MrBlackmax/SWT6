@@ -61,7 +61,12 @@ public class EmployeeManager {
     var session = HibernateUtil.getCurrentSession();
     var tx = session.beginTransaction();
     var empl = session.find(Employee.class, id);
-
+    if (empl != null) {
+      empl.setFirstName(firstName);
+      empl.setLastName(lastName);
+      empl.setDateOfBirth(date);
+    }
+    tx.commit();
   }
 
   private static boolean deleteEmployeeById(long emplId) {
@@ -78,10 +83,29 @@ public class EmployeeManager {
     return empl != null;
   }
 
+  private static Employee findEmployeeById(long id) {
+    var session= HibernateUtil.getCurrentSession();
+    var tx = session.beginTransaction();
+    var empl = session.find(Employee.class, id);
+
+    tx.commit();
+    return empl;
+  }
+
+  private static List<Employee> findEmployeeByLastname(String lastname) {
+    var session= HibernateUtil.getCurrentSession();
+    var tx = session.beginTransaction();
+
+    var qry = session.createQuery("select e from Employee  e where e.lastName like :lastName", Employee.class);
+    qry.setParameter("lastName", "%" + lastname + "%");
+    tx.commit();
+    return qry.list();
+  }
+
   public static void main(String[] args) {
     DateTimeFormatter formatter = DateTimeFormatter.ofPattern("d.M.yyyy");
     BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
-    String availCmds = "commands: quit, insert, list,update, delete";
+    String availCmds = "commands: quit, insert, list,update, delete,findById,findByLastName";
     
     System.out.println("Hibernate Employee Admin");
     System.out.println(availCmds);
@@ -115,7 +139,13 @@ public class EmployeeManager {
             var success = deleteEmployeeById(Long.parseLong(promptFor(in, "id")));
             System.out.println("Deletion was " + (success ? "" : "not") + " successfull");
             break;
-
+          case "findById":
+            var empl = findEmployeeById(Long.parseLong(promptFor(in, "id: ")));
+            break;
+          case "findByLastName":
+            var empls = findEmployeeByLastname(promptFor(in, "lastname:"));
+            empls.forEach(System.out::println);
+            break;
         default:
           System.out.println("ERROR: invalid command");
           break;
