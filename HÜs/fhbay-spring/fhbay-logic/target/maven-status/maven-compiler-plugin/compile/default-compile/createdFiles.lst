@@ -1,0 +1,15 @@
+swt6\schwarz\fhbay\dao\domain\Address.class
+swt6\schwarz\fhbay\dao\domain\Bid.class
+swt6\schwarz\fhbay\LogicFactory.class
+swt6\schwarz\fhbay\dao\domain\Customer.class
+swt6\schwarz\fhbay\dao\domain\Payment.class
+swt6\schwarz\fhbay\logic\FhBayLogic.class
+swt6\schwarz\fhbay\dao\domain\BankAccount.class
+swt6\schwarz\fhbay\logic\Logic.class
+swt6\schwarz\fhbay\dao\domain\CreditCard.class
+swt6\schwarz\fhbay\dao\repositories\BidRepository.class
+swt6\schwarz\fhbay\exceptions\EntityNotFoundException.class
+swt6\schwarz\fhbay\dao\repositories\ArticleRepository.class
+swt6\schwarz\fhbay\dao\repositories\CustomerRepository.class
+swt6\schwarz\fhbay\util\DbSeeder.class
+swt6\schwarz\fhbay\dao\domain\Article.class

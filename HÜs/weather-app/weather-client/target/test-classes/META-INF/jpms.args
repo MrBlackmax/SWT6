@@ -1,0 +1,4 @@
+--patch-module
+weather.client=_
+--add-reads
+weather.client=ALL-UNNAMED

@@ -1,0 +1,4 @@
+--patch-module
+temperature.sensor=_
+--add-reads
+temperature.sensor=ALL-UNNAMED

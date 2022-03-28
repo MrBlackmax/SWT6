@@ -1,0 +1,56 @@
+1648130868373:getAllCustomers
+1648130873515:stacktrace
+1648131192846:getAllCustomers
+1648131211482:help
+1648131230529:get-all-customers
+1648131302187:stacktrace
+1648131350815:get-all-customers
+1648131358918:stacktrace
+1648131414397:get-all-customers
+1648131820005:find-customer-by-id --id 1
+1648131831641:find-customer-by-id --id 2
+1648131847107:help
+1648132292059:get-all-customers
+1648132358277:add-article --title Hazret --desc A bosnian IT Student --price 1000 --beginDate 2022-03-24 13:20 --endDate 2022-12-31 23:59
+1648132392384:add-article --title Hazret --desc A bosnian IT Student --price 1000 --beginDate 2022-03-24 --endDate 2022-12-31
+1648132411684:add-article --title Hazret --desc "A bosnian IT Student" --price 1000 --beginDate 2022-03-24 13:20 --endDate 2022-12-31 23:59
+1648132423188:add-article --title Hazret --desc A bosnian IT Student --price 1000 --beginDate "2022-03-24 13:20" --endDate "2022-12-31 23:59"
+1648132444786:add-article --title Hazret --desc "A bosnian IT Student" --price 1000 --beginDate "2022-03-24 13:20" --endDate "2022-12-31 23:59"
+1648132486268:add-article --title "Hazret" --desc "A bosnian IT Student" --price 1000 --beginDate "2022-03-24 13:20" --endDate "2022-12-31 23:59"
+1648132490203:help add-article
+1648132504232:add-article --title Hazret --desc "A bosnian IT Student" --price 1000 --begin-date "2022-03-24 13:20" --end-date "2022-12-31 23:59"
+1648132533110:add-article --title Hazret --desc "A bosnian IT Student" --price 1000 --begin-date "2022-03-24" --end-date "2022-12-31"
+1648132703662:get-all-articles
+1648132794296:add-article --title Hazret --desc A bosnian IT student --price 1000 --begin-date "022-03-24 00:00" --end-date "022-12-31 23:59"
+1648132814706:add-article --title Hazret --desc "A bosnian IT student" --price 1000 --begin-date "2022-03-24 00:00" --end-date "2022-12-31 23:59"
+1648132819414:get-all-articles
+1648132894869:help
+1648132904632:find-articler-by-id 6
+1648132913972:find-articler-by-id 7
+1648132920192:find-articler-by-id 8
+1648133106072:get-all-articles
+1648133125388:find-articler-by-id 6
+1648133132367:search PS5
+1648133136074:search Xbox
+1648134546716:search console
+1648134582658:get-all-articles
+1648134586690:search ps
+1648134590292:search PS
+1648134594273:search cons
+1648135208059:help
+1648135211021:add-bid help
+1648135223622:help add-bid
+1648135240744:add-bid --article-id 6 --customer-id 1 --price 6000
+1648135246446:get-all-bids
+1648135249023:help
+1648135256082:get-all-bids-for-article 6
+1648135302215:version
+1648136118046:asd
+1648136168317:add-bid --article-id 6 --customer-id 1 --price 1000
+1648136426977:get-bids-for-article 6
+1648136436314:help
+1648136442441:get-all-bids-for-article 6
+1648136602270:add-bid --article-id 6 --customer-id 1 --price 1000
+1648221468229:help
+1648221475795:get-all-customers
+1648221488249:find-customer-by-id 1

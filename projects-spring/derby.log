@@ -1,0 +1,64 @@
+----------------------------------------------------------------
+Tue Mar 22 11:16:34 CET 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-017f-b120-d7bd-0000016d4288 
+on database directory memory:D:\Hagenberg_Laufend\SWT6\projects-spring\3ff731c8-de42-43d4-9eee-ac678c1828f7 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1d44bcfa 
+Loaded from file:/D:/Hagenberg_Laufend/SWT6/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.2+8-86
+user.dir=D:\Hagenberg_Laufend\SWT6\projects-spring
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Mar 22 11:21:47 CET 2022:
+Shutting down instance a816c00e-017f-b120-d7bd-0000016d4288 on database directory memory:D:\Hagenberg_Laufend\SWT6\projects-spring\3ff731c8-de42-43d4-9eee-ac678c1828f7 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1d44bcfa 
+----------------------------------------------------------------
+Tue Mar 22 11:21:48 CET 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance e66540fa-017f-b120-d7bd-0000016d4288 
+on database directory memory:D:\Hagenberg_Laufend\SWT6\projects-spring\923550b7-ce90-42a0-a072-5503892e6fbf with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1d44bcfa 
+Loaded from file:/D:/Hagenberg_Laufend/SWT6/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.2+8-86
+user.dir=D:\Hagenberg_Laufend\SWT6\projects-spring
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Mar 22 11:30:09 CET 2022:
+Shutting down instance e66540fa-017f-b120-d7bd-0000016d4288 on database directory memory:D:\Hagenberg_Laufend\SWT6\projects-spring\923550b7-ce90-42a0-a072-5503892e6fbf with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1d44bcfa 
+----------------------------------------------------------------
+Tue Mar 22 11:30:10 CET 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 5b17c1e6-017f-b120-d7bd-0000016d4288 
+on database directory memory:D:\Hagenberg_Laufend\SWT6\projects-spring\93d9e335-96bd-4730-b6af-552465852539 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1d44bcfa 
+Loaded from file:/D:/Hagenberg_Laufend/SWT6/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.2+8-86
+user.dir=D:\Hagenberg_Laufend\SWT6\projects-spring
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Mar 22 12:24:47 CET 2022:
+Shutting down instance 5b17c1e6-017f-b120-d7bd-0000016d4288 on database directory memory:D:\Hagenberg_Laufend\SWT6\projects-spring\93d9e335-96bd-4730-b6af-552465852539 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1d44bcfa 
+----------------------------------------------------------------
+Tue Mar 22 12:24:47 CET 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 062e42d2-017f-b120-d7bd-0000016d4288 
+on database directory memory:D:\Hagenberg_Laufend\SWT6\projects-spring\65c43668-daff-4ffd-9137-5c56076f223d with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1d44bcfa 
+Loaded from file:/D:/Hagenberg_Laufend/SWT6/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.2+8-86
+user.dir=D:\Hagenberg_Laufend\SWT6\projects-spring
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Mar 22 12:55:40 CET 2022:
+Shutting down instance 062e42d2-017f-b120-d7bd-0000016d4288 on database directory memory:D:\Hagenberg_Laufend\SWT6\projects-spring\65c43668-daff-4ffd-9137-5c56076f223d with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1d44bcfa 

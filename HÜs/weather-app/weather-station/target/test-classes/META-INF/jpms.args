@@ -1,0 +1,4 @@
+--patch-module
+weather.station=_
+--add-reads
+weather.station=ALL-UNNAMED

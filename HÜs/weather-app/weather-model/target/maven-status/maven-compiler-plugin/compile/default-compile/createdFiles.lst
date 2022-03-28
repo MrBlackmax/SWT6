@@ -1,0 +1,7 @@
+swt6\schwarz\weather\model\SensorListener.class
+swt6\schwarz\weather\model\SensorProvider.class
+swt6\schwarz\weather\model\SensorType.class
+module-info.class
+swt6\schwarz\weather\model\Measurement.class
+swt6\schwarz\weather\model\Sensor.class
+swt6\schwarz\weather\model\MeasureUnit.class

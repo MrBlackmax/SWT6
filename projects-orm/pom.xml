@@ -91,7 +91,7 @@
                 <configuration>
                     <derbyHome>${project.basedir}/data</derbyHome>
                     <port>1527</port>
-                    <database>WorkLogDb</database>
+                    <database>FhBayDb</database>
                     <username>user</username>
                     <password>test</password>
                 </configuration>
