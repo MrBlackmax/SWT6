@@ -1,0 +1,12 @@
+C:\public\SWT6\OrderManagementProject\OrderManagement.Dtos\bin\Debug\net6.0\OrderManagement.Dtos.deps.json
+C:\public\SWT6\OrderManagementProject\OrderManagement.Dtos\bin\Debug\net6.0\OrderManagement.Dtos.dll
+C:\public\SWT6\OrderManagementProject\OrderManagement.Dtos\bin\Debug\net6.0\ref\OrderManagement.Dtos.dll
+C:\public\SWT6\OrderManagementProject\OrderManagement.Dtos\bin\Debug\net6.0\OrderManagement.Dtos.pdb
+C:\public\SWT6\OrderManagementProject\OrderManagement.Dtos\obj\Debug\net6.0\OrderManagement.Dtos.csproj.AssemblyReference.cache
+C:\public\SWT6\OrderManagementProject\OrderManagement.Dtos\obj\Debug\net6.0\OrderManagement.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\public\SWT6\OrderManagementProject\OrderManagement.Dtos\obj\Debug\net6.0\OrderManagement.Dtos.AssemblyInfoInputs.cache
+C:\public\SWT6\OrderManagementProject\OrderManagement.Dtos\obj\Debug\net6.0\OrderManagement.Dtos.AssemblyInfo.cs
+C:\public\SWT6\OrderManagementProject\OrderManagement.Dtos\obj\Debug\net6.0\OrderManagement.Dtos.csproj.CoreCompileInputs.cache
+C:\public\SWT6\OrderManagementProject\OrderManagement.Dtos\obj\Debug\net6.0\OrderManagement.Dtos.dll
+C:\public\SWT6\OrderManagementProject\OrderManagement.Dtos\obj\Debug\net6.0\ref\OrderManagement.Dtos.dll
+C:\public\SWT6\OrderManagementProject\OrderManagement.Dtos\obj\Debug\net6.0\OrderManagement.Dtos.pdb

@@ -1,0 +1,15 @@
+C:\public\SWT6\OrderManagementProject\OrderManagement.Dal\bin\Debug\net6.0\OrderManagement.Dal.deps.json
+C:\public\SWT6\OrderManagementProject\OrderManagement.Dal\bin\Debug\net6.0\OrderManagement.Dal.dll
+C:\public\SWT6\OrderManagementProject\OrderManagement.Dal\bin\Debug\net6.0\ref\OrderManagement.Dal.dll
+C:\public\SWT6\OrderManagementProject\OrderManagement.Dal\bin\Debug\net6.0\OrderManagement.Dal.pdb
+C:\public\SWT6\OrderManagementProject\OrderManagement.Dal\bin\Debug\net6.0\OrderManagement.Domain.dll
+C:\public\SWT6\OrderManagementProject\OrderManagement.Dal\bin\Debug\net6.0\OrderManagement.Domain.pdb
+C:\public\SWT6\OrderManagementProject\OrderManagement.Dal\obj\Debug\net6.0\OrderManagement.Dal.csproj.AssemblyReference.cache
+C:\public\SWT6\OrderManagementProject\OrderManagement.Dal\obj\Debug\net6.0\OrderManagement.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\public\SWT6\OrderManagementProject\OrderManagement.Dal\obj\Debug\net6.0\OrderManagement.Dal.AssemblyInfoInputs.cache
+C:\public\SWT6\OrderManagementProject\OrderManagement.Dal\obj\Debug\net6.0\OrderManagement.Dal.AssemblyInfo.cs
+C:\public\SWT6\OrderManagementProject\OrderManagement.Dal\obj\Debug\net6.0\OrderManagement.Dal.csproj.CoreCompileInputs.cache
+C:\public\SWT6\OrderManagementProject\OrderManagement.Dal\obj\Debug\net6.0\OrderManagement.Dal.csproj.CopyComplete
+C:\public\SWT6\OrderManagementProject\OrderManagement.Dal\obj\Debug\net6.0\OrderManagement.Dal.dll
+C:\public\SWT6\OrderManagementProject\OrderManagement.Dal\obj\Debug\net6.0\ref\OrderManagement.Dal.dll
+C:\public\SWT6\OrderManagementProject\OrderManagement.Dal\obj\Debug\net6.0\OrderManagement.Dal.pdb

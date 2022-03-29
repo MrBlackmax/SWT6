@@ -11,7 +11,5 @@ public class LogicFactory {
         var fhbayLogic = context.getBean("fhbay", Logic.class);
         new DbSeeder(fhbayLogic).seedDB();
         return fhbayLogic;
-        new DbSeeder(fhbayLogic).seedDB();
-        return fhbayLogic;
     }
 }

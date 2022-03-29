@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4d141fed-4a4c-4c15-bb9a-e3482648f3e4": {
+      "ProjectGuid": "4d141fed-4a4c-4c15-bb9a-e3482648f3e4",
+      "DisplayName": "OrderManagement.Api",
+      "ColorIndex": 0
+    },
+    "d2ad1d67-1925-4fdc-834a-e2a0ac5caf00": {
+      "ProjectGuid": "d2ad1d67-1925-4fdc-834a-e2a0ac5caf00",
+      "DisplayName": "OrderManagement.Dal",
+      "ColorIndex": 1
+    },
+    "295c03d7-8211-43bc-adfb-966cd2123749": {
+      "ProjectGuid": "295c03d7-8211-43bc-adfb-966cd2123749",
+      "DisplayName": "OrderManagement.Domain",
+      "ColorIndex": 2
+    },
+    "d034568a-dd27-4f30-a9c6-d670337b9454": {
+      "ProjectGuid": "d034568a-dd27-4f30-a9c6-d670337b9454",
+      "DisplayName": "OrderManagement.Dtos",
+      "ColorIndex": 3
+    },
+    "1b2769bd-dfba-48cd-a2df-10a3d2d5da70": {
+      "ProjectGuid": "1b2769bd-dfba-48cd-a2df-10a3d2d5da70",
+      "DisplayName": "OrderManagement.Logic",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

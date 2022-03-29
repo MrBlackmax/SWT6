@@ -1,0 +1,12 @@
+C:\public\SWT6\OrderManagementProject\OrderManagement.Domain\bin\Debug\net6.0\OrderManagement.Domain.deps.json
+C:\public\SWT6\OrderManagementProject\OrderManagement.Domain\bin\Debug\net6.0\OrderManagement.Domain.dll
+C:\public\SWT6\OrderManagementProject\OrderManagement.Domain\bin\Debug\net6.0\ref\OrderManagement.Domain.dll
+C:\public\SWT6\OrderManagementProject\OrderManagement.Domain\bin\Debug\net6.0\OrderManagement.Domain.pdb
+C:\public\SWT6\OrderManagementProject\OrderManagement.Domain\obj\Debug\net6.0\OrderManagement.Domain.csproj.AssemblyReference.cache
+C:\public\SWT6\OrderManagementProject\OrderManagement.Domain\obj\Debug\net6.0\OrderManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\public\SWT6\OrderManagementProject\OrderManagement.Domain\obj\Debug\net6.0\OrderManagement.Domain.AssemblyInfoInputs.cache
+C:\public\SWT6\OrderManagementProject\OrderManagement.Domain\obj\Debug\net6.0\OrderManagement.Domain.AssemblyInfo.cs
+C:\public\SWT6\OrderManagementProject\OrderManagement.Domain\obj\Debug\net6.0\OrderManagement.Domain.csproj.CoreCompileInputs.cache
+C:\public\SWT6\OrderManagementProject\OrderManagement.Domain\obj\Debug\net6.0\OrderManagement.Domain.dll
+C:\public\SWT6\OrderManagementProject\OrderManagement.Domain\obj\Debug\net6.0\ref\OrderManagement.Domain.dll
+C:\public\SWT6\OrderManagementProject\OrderManagement.Domain\obj\Debug\net6.0\OrderManagement.Domain.pdb
